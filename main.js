@@ -79,7 +79,6 @@ Good Luck!\n\n`;
         this.currentColumn--;
         this.checkStatus();
         this.renderPlayer();
-
     }
 
     moveDown(){
